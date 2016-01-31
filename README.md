@@ -1,7 +1,7 @@
-# MNML &bull; Beach Toys
+# MNML Landing Page
 ---
 
-A minimal landing page for MNML, beach toys selling company.
+A minimal landing page for MNML, a beach toys selling company.
 
 
-[See it live!](https://gabrielusr.github.io/mnml-landingpage)
+[Click here to see it live!](https://gabrielusr.github.io/mnml-landingpage)
