@@ -1,4 +1,4 @@
-# MNML
+# MNML &bull; Beach Toys
 ---
 
 A minimal landing page for MNML, beach toys selling company.
