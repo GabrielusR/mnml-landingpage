@@ -1,0 +1,96 @@
+/* MNML Website Styles */
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: url('images/background.jpg') center center no-repeat;
+  background-size: cover;
+  color: #fff;
+  font-family: Courier, monospace;
+  font-size: 14px;
+}
+
+#container {
+  width: 620px;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+  padding: 20px 0;
+  border-bottom: solid 1px #fff;
+}
+
+nav {
+  margin-top: 15px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 20px;
+}
+
+a:link {
+  color: #fff;
+  text-decoration: none;
+  text-transform: lowercase;
+}
+
+a:visited {
+  color: #fff;
+}
+
+a:hover {
+  color: #ffea00;
+}
+
+#tagline {
+  text-align: center;
+  margin: 50px 0 0;
+}
+
+#tagline h1 {
+  margin-bottom: 160px;
+}
+
+#tagline h1 em {
+  font-weight: lighter;
+  font-style: italic;
+  display: block;
+}
+
+a.button {
+  display: block;
+  height: 86px;
+  width: 305px;
+  background: url('images/button-background.png') top left no-repeat;
+  margin: 0 auto 120px;
+  color: #000;
+  font-size: 18px;
+  line-height: 86px;
+}
+
+a.button:hover {
+  color: #fff;
+  text-shadow: 0 2px 2px #333;
+}
+
+a.button:active {
+  position: relative;
+  top: 1px;
+}
+
+
+footer {
+  text-align: center;
+  font-size: 12px;
+}
